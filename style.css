@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+    
+}
+.qr{
+   width: 20%; 
+   background-color:white ;
+   margin: auto; 
+   margin-top: 10%;
+   padding: auto;
+   padding-left: 70px; 
+   padding-top: 30px;
+   padding-bottom: 30px;
+   border-radius: 5px;
+}
+#img{
+    width: 280px;
+    border-radius: 6%;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
